@@ -9,7 +9,7 @@ There are many, slightly different implementations/architectures of MNIST image 
 - Pytorch
 
 ## Usage
-Just run one of the train codes and it will start training the model ans spit out sample images from the number 0 to 9.
+Just run one of the train codes and it will start training the model and at the end, it will spit out sample images of numbers from 0 to 9.
 
 ## Architecture
 To be written.
